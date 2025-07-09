@@ -1,0 +1,41 @@
+.a {
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(71, 70, 68);
+    display: flex;
+}
+
+.c1 {
+    padding: 10px;
+    font-weight: bolder;
+}
+
+.a2 {
+
+    margin-left: auto;
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+}
+
+.t2 {
+    background-color: rgb(206, 204, 200);
+    width: 400px;
+    padding: 10px;
+}
+
+
+.t1 {
+    background-color: rgb(185, 182, 178);
+    width: 400px;
+    padding: 10px;
+    padding-bottom: 60px;
+    border-radius: 5px;
+}
+
+.t4 {
+    background-color: rgb(71, 70, 68);
+    padding: 10px;
+    margin-top: 5px;
+    color: rgb(255, 255, 255);
+}
