@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.a {
+    text-align: center;
+    line-height: 50px;
+    display: grid;
+    /* Chiều rộng */
+    grid-template-columns: 1fr 1fr  1fr 1fr;
+    /* Chiều cao */
+    grid-template-rows: ;
+gap: 10px;}
+
+
+.b1{ background-color:rgb(137, 141, 141);
+    grid-row-start: 1;
+    grid-row-end: 3;
+grid-column-start: 1;
+grid-column-end: 3;
+    color: aliceblue;}
+
+.b2{
+    background-color: rgb(137, 141, 141);
+     grid-row-start: 3;
+    grid-row-end: 5;
+grid-column-start: 1;
+grid-column-end: 3;
+    color: aliceblue;
+    
+}
+    
+
+
+
+.b{
+    background-color: rgb(137, 141, 141);
+    color: aliceblue;
+    border: 1px solid black;
+    height: 50px ;
+}
